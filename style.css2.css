@@ -1,0 +1,167 @@
+
+.cart{
+   background-color: rgb(255, 255, 50);
+   border-radius: 15px;
+}
+
+
+.search { 
+    
+    display: inline-block;
+   
+   position: relative;
+   top: -7px;
+    
+}
+
+.empty {
+    display: inline-block;
+       
+   
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+span {
+    position: relative;
+    top: 4px;
+    padding-bottom: 4px;
+}
+
+.ca {
+    display: inline-block;
+}
+
+#im {
+    width: 25px;
+    position: relative;
+    top: 5px;
+}
+
+.sel {
+    display: inline-block;
+}
+
+.hi {
+    position: relative;
+    top: 4px;
+}
+
+input {
+    background-color: rgba(255, 255, 255, 0.777);
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+          
+    width: 550px;
+    height: 30px;
+}
+
+.cr {
+    display: inline-block;
+}
+
+.acc {
+    width: 30px;
+    position: relative;
+    top: 6px;
+    padding: auto;
+}
+.p img  {
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   top: 65px;
+   right: 320px;
+
+}
+.p img{
+    display: none;
+}
+.empty:hover .p img{
+    display: block;
+}
+.empty:hover{
+    background-color: rgba(11, 80, 255, 0.784);
+    border-radius: 3px;
+}
+   
+
+.acc:hover{
+
+    border-radius: 20px;
+}
+.rtx,.search,.empty,.ca,.sel{
+    margin-right: 65px;
+}
+.guru{
+   display: inline-block;
+
+}
+.main2 img {
+padding-right: 80px;   
+     
+   
+}
+.gorsry{
+    display: inline;
+    position: relative;
+    
+}
+.main2 .uu{
+    width: 50px;
+    height: 60px;
+}
+.up{
+    width: 70px;
+    height: 60px;
+
+  
+}
+.op{
+    margin-left: 30px;
+}
+.uu{
+ position: relative;
+ right: 20px;
+
+
+}
+p{
+    display: inline;
+}
+.a{
+    margin-left: 25px;
+    margin-right: 100px;
+}
+.b{
+    margin-right: 100px;
+}
+.c{
+    margin-right: 80px; 
+}
+.d{
+    margin-right: 60px; 
+}
+.e{
+    margin-right: 40px;
+}
+.f{
+    margin-right: 60px;  
+}
+.g{
+    margin-right: 20px;
+}
+.h{
+    margin-right: 70px;
+}
+
+
+
+
+
+
+
+
